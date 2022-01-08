@@ -1,1 +1,1 @@
-# MetaDAO
+# MetaDAO contract
